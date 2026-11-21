@@ -28,8 +28,8 @@ The Course-Integrated Learning Ecosystem is designed to make introductory progra
 
 | Lab | Topic and hands-on focus |
 | --- | --- |
-| [01](COS107_Paper/Lab1/lab1.html) | Hello Python — print statements, comments, and strings |
-| [02](COS107_Paper/Lab2/lab2.html) | Input and variables — interactive profile |
+| [01](./Lab1/lab1.html) | Hello Python — print statements, comments, and strings |
+| [02](./Lab2/lab2.html) | Input and variables — interactive profile |
 | [03](COS107_Paper/Lab3/lab3.html) | Numbers and calculations — tip calculator |
 | [04](COS107_Paper/Lab4/lab4.html) | Decision structures — grade advisor |
 | [05](COS107_Paper/Lab5/lab5.html) | Loops — repetition and running totals |
@@ -75,8 +75,7 @@ The course interface is built primarily with **HTML, CSS, and JavaScript**, incl
 ## Repository Structure
 
 ```text
-Course_Integrated_Learning_Ecosystem/
-├── COS107_Paper/
+├── Course_Integrated_Learning_Ecosystem/
 │   ├── COS107.html              # Course syllabus
 │   ├── Homepage/
 │   │   └── index.html           # Tablet-inspired course hub
@@ -97,12 +96,6 @@ These materials may be useful to instructors designing introductory programming 
 
 The repository presents instructional artifacts and design ideas; it does not, by itself, establish evidence of learning effectiveness.
 
-## Author
-
-**Xinxing Wu, Ph.D.**  
-Assistant Professor, School of Mathematics and Computer Science  
-Kentucky State University  
-Email: [xinxing.wu@kysu.edu](mailto:xinxing.wu@kysu.edu)
 
 ## License and Attribution
 
