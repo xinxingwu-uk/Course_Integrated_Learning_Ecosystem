@@ -16,11 +16,12 @@ The Course-Integrated Learning Ecosystem is designed to make introductory progra
 - **Practice with real tools:** Students can write Python in Thonny, experiment in Google Colab, and build simple web interfaces with Gradio.
 - **Reusable instructional materials:** HTML-based lessons can be reviewed, adapted, and used as a starting point for similar courses.
 
+- Here is the **[demo]([./Homepage/index.html](https://xinxingwu-uk.github.io/COS107_Demo/Homepage/index.html)**
 ## Explore the Course
 
-- **[Open the course homepage](COS107_Paper/Homepage/index.html)** — tablet-inspired course dashboard
-- **[Read the course syllabus](COS107_Paper/COS107.html)** — course goals, learning outcomes, policies, and schedule
-- **[View the course introduction](COS107_Paper/Intro/Introduction.html)** — orientation and learning roadmap
+- **[Open the course homepage](./Homepage/index.html)** — tablet-inspired course dashboard
+- **[Read the course syllabus](./COS107.html)** — course goals, learning outcomes, policies, and schedule
+- **[View the course introduction](./Intro/Introduction.html)** — orientation and learning roadmap
 
 > **Note:** Links to Canvas assignments, quizzes, and other university systems may require Kentucky State University access. The public HTML lessons can be viewed separately.
 
@@ -30,20 +31,20 @@ The Course-Integrated Learning Ecosystem is designed to make introductory progra
 | --- | --- |
 | [01](./Lab1/lab1.html) | Hello Python — print statements, comments, and strings |
 | [02](./Lab2/lab2.html) | Input and variables — interactive profile |
-| [03](COS107_Paper/Lab3/lab3.html) | Numbers and calculations — tip calculator |
-| [04](COS107_Paper/Lab4/lab4.html) | Decision structures — grade advisor |
-| [05](COS107_Paper/Lab5/lab5.html) | Loops — repetition and running totals |
-| [06](COS107_Paper/Lab6/lab6.html) | Functions — organizing and reusing code |
-| [07](COS107_Paper/Lab7/lab7.html) | Modules and random numbers — mini games |
-| [08](COS107_Paper/Lab8/lab8.html) | Strings — text analysis and validation |
-| [09](COS107_Paper/Lab9/lab9.html) | Lists — storing and processing values |
-| [10](COS107_Paper/Lab10/lab10.html) | Dictionaries and sets — lookups and unique values |
-| [11](COS107_Paper/Lab11/lab11.html) | Files and exceptions — saving data safely |
-| [12](COS107_Paper/Lab12/lab12.html) | CSV data — reading and summarizing tables |
-| [13](COS107_Paper/Lab13/lab13.html) | Data visualization — plotting with Matplotlib |
-| [14](COS107_Paper/Lab14/lab14.html) | Object-oriented programming — classes and objects |
-| [15](COS107_Paper/Lab15/lab15.html) | SQLite capstone — a small database application |
-| [16](COS107_Paper/Lab16/lab16.html) | Flappy Bird — game programming example / final project activity |
+| [03](./Lab3/lab3.html) | Numbers and calculations — tip calculator |
+| [04](./Lab4/lab4.html) | Decision structures — grade advisor |
+| [05](./Lab5/lab5.html) | Loops — repetition and running totals |
+| [06](./Lab6/lab6.html) | Functions — organizing and reusing code |
+| [07](./Lab7/lab7.html) | Modules and random numbers — mini games |
+| [08](./Lab8/lab8.html) | Strings — text analysis and validation |
+| [09](./Lab9/lab9.html) | Lists — storing and processing values |
+| [10](./Lab10/lab10.html) | Dictionaries and sets — lookups and unique values |
+| [11](./Lab11/lab11.html) | Files and exceptions — saving data safely |
+| [12](./Lab12/lab12.html) | CSV data — reading and summarizing tables |
+| [13](./Lab13/lab13.html) | Data visualization — plotting with Matplotlib |
+| [14](./Lab14/lab14.html) | Object-oriented programming — classes and objects |
+| [15](./Lab15/lab15.html) | SQLite capstone — a small database application |
+| [16](./Lab16/lab16.html) | Flappy Bird — game programming example / final project activity |
 
 ## Getting Started
 
