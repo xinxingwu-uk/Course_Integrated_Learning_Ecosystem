@@ -17,6 +17,7 @@ The Course-Integrated Learning Ecosystem is designed to make introductory progra
 - **Reusable instructional materials:** HTML-based lessons can be reviewed, adapted, and used as a starting point for similar courses.
 
 - Here is the **[demo]([./Homepage/index.html](https://xinxingwu-uk.github.io/COS107_Demo/Homepage/index.html)**
+
 ## Explore the Course
 
 - **[Open the course homepage](./Homepage/index.html)** — tablet-inspired course dashboard
