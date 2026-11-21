@@ -16,7 +16,7 @@ The Course-Integrated Learning Ecosystem is designed to make introductory progra
 - **Practice with real tools:** Students can write Python in Thonny, experiment in Google Colab, and build simple web interfaces with Gradio.
 - **Reusable instructional materials:** HTML-based lessons can be reviewed, adapted, and used as a starting point for similar courses.
 
-- Here is the **[demo]([./Homepage/index.html](https://xinxingwu-uk.github.io/COS107_Demo/Homepage/index.html)**
+- Here is the **[demo](https://xinxingwu-uk.github.io/COS107_Demo/Homepage/index.html)**
 
 ## Explore the Course
 
